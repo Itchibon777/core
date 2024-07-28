@@ -1,4 +1,4 @@
-FROM alpine:3.7
+FROM alpine:3.19.3
 MAINTAINER YunSuk Yeo <yun@terra.money>
 
 RUN apk update && \
